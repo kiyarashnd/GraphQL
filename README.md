@@ -64,8 +64,8 @@ cd GraphQL
 
 ## Usage
 Once both servers are running:
-- Open the frontend in your browser (usually at `http://localhost:5173`)
-- Access the GraphQL playground at `http://localhost:4000/graphql` (if enabled)
+- Open the frontend in your browser (at `http://localhost:5173`)
+- Access the GraphQL playground at `http://localhost:4000/graphql`
 
 ## Contributing
 Feel free to fork this repository and submit pull requests.
